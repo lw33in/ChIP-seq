@@ -1,4 +1,4 @@
-Distance from Center (cmd=annotatePeaks.pl tss hg19 -size 4000 -hist 10 -d /home/rcf-proj/swn/ZFX_proj_ChIPseq/combined_ZFX_tagDir)	/home/rcf-proj/swn/ZFX_proj_ChIPseq/combined_ZFX_tagDir Coverage	/home/rcf-proj/swn/ZFX_proj_ChIPseq/combined_ZFX_tagDir + Tags	/home/rcf-proj/swn/ZFX_proj_ChIPseq/combined_ZFX_tagDir - Tags
+Distance from Center (cmd=annotatePeaks.pl tss hg19 -size 4000 -hist 10 -d /home/tagDir)	/home/tagDir Coverage	/home/tagDir + Tags	/home/tagDir - Tags
 -2000	0.558585924712755	0.00274607277504921	0.00266100908260083
 -1990	0.558960242391296	0.00273232748771913	0.00270648634753864
 -1980	0.559022715078642	0.00272180252484927	0.00268001685136584
